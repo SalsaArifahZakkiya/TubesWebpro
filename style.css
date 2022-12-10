@@ -1,0 +1,35 @@
+body{
+    color :white;
+    background: linear-gradient(180.96deg, #000000 0.82%, #00917A 129.1%);
+    color: #ffffff;
+}
+.navbar-nav{
+    align-items: center;
+    gap: 1em; 
+}
+.nav-link{
+    color:white;
+}
+
+.nav-link:hover{
+    color: white;
+    background-color:#00917A;
+    border-radius: .375rem;
+}
+.btn-success{
+    background-color:#00917A;
+    border-radius: .375rem;
+}
+#container{
+    background-color: #1C140F;
+    border-radius: .375rem;
+}
+
+.card{
+    background-color: #1C140F;
+}
+.copyright{
+    background-color: #070707;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
